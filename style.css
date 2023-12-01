@@ -18,10 +18,10 @@
 .judul{
     color: #59B379;
     position: absolute;
-    left: 15rem;
+    left: 10rem;
     top: 2.5rem;
     font-family: 'Caveat', cursive;
-    font-size: 50px;
+    font-size: 5vw;
 }
 .container{
     width: 100%;
